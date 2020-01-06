@@ -1,0 +1,19 @@
+{
+  "name": "ark-peers",
+  "version": "0.1.0",
+  "description": "A tool to gather peer data from the ARK network",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lemii/ark-peers.git"
+  },
+  "author": "lemii",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
